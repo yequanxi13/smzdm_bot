@@ -39,7 +39,7 @@
 <img src="pics/log_20201212.jpg" width="300" height="200" alt="签到截图" div align=center /><br/>
 
 + 2020-10-08  
-first push
+first push 
 
 + 2020-12-12  
 修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。  
